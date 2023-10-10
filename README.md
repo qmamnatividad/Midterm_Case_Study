@@ -8,3 +8,8 @@ This repository contains code for processing audio files associated with three c
 4. Adjust Parameters: Modify audio processing parameters within the code as needed.
 5. Run Code: Execute the selected code cell to process the audio files for the chosen character.
 6. Output: Processed audio files will be saved in separate directories for each character.
+
+## Team Members
+* Diño, Nicole Rosae 
+* Jayme, Karla Danielle 
+* Natividad, Marc Alvin
