@@ -1,4 +1,4 @@
-# Midterm Case Study- Team MaNiKa
+# Midterm Case Study - Team MaNiKa
 This repository contains code for processing audio files associated with three characters: Dora, Diego, and Boots. The audio files are processed using pitch shifting, time stretching, and low-pass filtering techniques. The processed audio files are saved in separate directories for each character.
 
 ## Usage
