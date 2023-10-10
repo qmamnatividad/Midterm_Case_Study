@@ -1,4 +1,4 @@
-## Team Members
+## Members
 * Diño, Nicole Rosae 
 * Jayme, Karla Danielle 
 * Natividad, Marc Alvin
