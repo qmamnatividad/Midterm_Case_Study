@@ -13,3 +13,6 @@ This repository contains code for processing audio files associated with three c
 * Diño, Nicole Rosae 
 * Jayme, Karla Danielle 
 * Natividad, Marc Alvin
+
+## Original Audio Files, Modified Audio Files, and Dubbed Video
+https://drive.google.com/drive/folders/1-bM-voDKujHV_DUC7AcmjRp-zftGrGqR?usp=sharing
